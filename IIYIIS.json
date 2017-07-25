@@ -136,7 +136,7 @@
             "dept":"CS",
             "year":"2nd",
             "sem":"2nd"
-        },     {
+        },{
             "subject":"MATH 322",
             "lecturer":"Kanhaiya Jha",
             "day":"Monday",
@@ -228,7 +228,7 @@
             "dept":"CS",
             "year":"3rd",
             "sem":"2nd"
-        },  {
+        },{
             "subject":"MATH 322",
             "lecturer":"Kanhaiya Jha",
             "day":"Thursday",
@@ -237,7 +237,7 @@
             "dept":"CS",
             "year":"3rd",
             "sem":"2nd"
-        }, {
+        },{
             "subject":"COMP 314",
             "lecturer":"Sameer Tamrakar",
             "day":"Thursday",
@@ -246,7 +246,7 @@
             "dept":"CS",
             "year":"3rd",
             "sem":"2nd"
-        }, {
+        },{
             "subject":"COMP 302",
             "lecturer":"Purushottam Kharel",
             "day":"Thursday",
@@ -264,7 +264,7 @@
             "dept":"CS",
             "year":"3rd",
             "sem":"2nd"
-        }, {
+        },{
             "subject":"COMP 486",
             "lecturer":"Manish Pokharel",
             "day":"Monday",
@@ -273,7 +273,7 @@
             "dept":"CS",
             "year":"4th",
             "sem":"2nd"
-        }, {
+        },{
             "subject":"MGMT 402",
             "lecturer":"",
             "day":"Monday",
