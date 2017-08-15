@@ -56,15 +56,6 @@
             "year":"2nd",
             "sem":"2nd"
         }, {
-            "subject":"MATH 207",
-            "lecturer":"Samir Shrestha",
-            "day":"Tuesday",
-            "start":"09:00 AM",
-            "end":"10:00 AM",
-            "dept":"CS",
-            "year":"2nd",
-            "sem":"2nd"
-        }, {
             "subject":"COMP 204",
             "lecturer":"Anamol Poudel",
             "day":"Tuesday",
@@ -212,9 +203,9 @@
             "subject":"MCSC 202",
             "lecturer":"Saraswoti Acharya",
             "day":"Tuesday",
-            "start":"01:00 M",
+            "start":"01:00 PM",
             "end":"03:00 PM",
-            "dept":"CS",
+            "dept":"CE",
             "year":"2nd",
             "sem":"2nd"
         },{
