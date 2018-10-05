@@ -1,5 +1,5 @@
 {
-    "version": 1,
+    "version": 2,
     "schedule": [
         {
             "subject":"COMP 232",
@@ -122,8 +122,8 @@
             "subject":"COMP 231",
             "lecturer":"Gajendra Sharma",
             "day":"Friday",
-            "start":"09:00 AM",
-            "end":"11:00 AM",
+            "start":"12:00 PM",
+            "end":"02:00 PM",
             "dept":"CS",
             "year":"2nd",
             "sem":"2nd"
