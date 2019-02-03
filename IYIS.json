@@ -1,0 +1,339 @@
+{
+    "version": 1,
+    "schedule": [
+        {
+            "subject":"MATH 101",
+            "lecturer":"Ms. Saraswati Acharya",
+            "day":"Sunday",
+            "start":"07:00 AM",
+            "end":"09:00 AM",
+            "dept":"CS",
+            "year":"1st",
+            "sem":"1st"
+        },{
+            "subject":"CHEM 101",
+            "lecturer":"Mr. Chirag Poudel",
+            "day":"Sunday",
+            "start":"10:00 AM",
+            "end":"11:00 AM",
+            "dept":"CS",
+            "year":"1st",
+            "sem":"1st"
+        },{
+            "subject":"PHYS 101",
+            "lecturer":"Mr. Manoj Pandey",
+            "day":"Sunday",
+            "start":"11:00 AM",
+            "end":"12:00 PM",
+            "dept":"CS",
+            "year":"1st",
+            "sem":"1st"
+        },{
+            "subject":"ENGG 111",
+            "lecturer":"Mr. Pratisthit lal Shrestha",
+            "day":"Sunday",
+            "start":"12:00 PM",
+            "end":"02:00 PM",
+            "dept":"CS",
+            "year":"1st",
+            "sem":"1st"
+        },{
+            "subject":"COMP 103",
+            "lecturer":"Dr. Rabindra Bista",
+            "day":"Monday",
+            "start":"07:00 AM",
+            "end":"09:00 AM",
+            "dept":"CS",
+            "year":"1st",
+            "sem":"1st"
+        },{
+            "subject":"CS1 Physics Practical",
+            "lecturer":"Lab Teacher",
+            "day":"Monday",
+            "start":"09:00 AM",
+            "end":"12:00 PM",
+            "dept":"CS",
+            "year":"1st",
+            "sem":"1st"
+        },{
+            "subject":"PHYS 101",
+            "lecturer":"Mr. Manoj Pandey",
+            "day":"Monday",
+            "start":"01:00 PM",
+            "end":"02:00 PM",
+            "dept":"CS",
+            "year":"1st",
+            "sem":"1st"
+        },{
+            "subject":"ENGT 101",
+            "lecturer":"Mr. Sangharsa Thapa",
+            "day":"Tuesday",
+            "start":"07:00 AM",
+            "end":"09:00 AM",
+            "dept":"CS",
+            "year":"1st",
+            "sem":"1st"
+        },{
+            "subject":"EDRG 101",
+            "lecturer":"Mr. Sangharsa Thapa",
+            "day":"Tuesday",
+            "start":"10:00 AM",
+            "end":"11:00 AM",
+            "dept":"CS",
+            "year":"1st",
+            "sem":"1st"
+        },{
+            "subject":"ENGG 111",
+            "lecturer":"Mr. Pratisthit lal Shrestha",
+            "day":"Tuesday",
+            "start":"11:00 AM",
+            "end":"01:00 PM",
+            "dept":"CS",
+            "year":"1st",
+            "sem":"1st"
+        },{
+            "subject":"COMP 103",
+            "lecturer":"Dr. Rabindra Bista",
+            "day":"Wednesday",
+            "start":"07:00 AM",
+            "end":"09:00 AM",
+            "dept":"CS",
+            "year":"1st",
+            "sem":"1st"
+        },{
+            "subject":"EDRG 101",
+            "lecturer":"Mr. Sangharsa Thapa",
+            "day":"Wednesday",
+            "start":"09:00 AM",
+            "end":"12:00 PM",
+            "dept":"CS",
+            "year":"1st",
+            "sem":"1st"
+         },{
+            "subject":"CHEM 101",
+            "lecturer":"Mr. Chirag Poudel",
+            "day":"Wednesday",
+            "start":"01:00 PM",
+            "end":"02:00 PM",
+            "dept":"CS",
+            "year":"1st",
+            "sem":"1st"
+        },{
+            "subject":"CHEM 101",
+            "lecturer":"Mr. Chirag Poudel",
+            "day":"Thursday",
+            "start":"07:00 AM",
+            "end":"08:00 AM",
+            "dept":"CS",
+            "year":"1st",
+            "sem":"1st"
+        },{
+            "subject":"CS2 Physics Practical",
+            "lecturer":"Lab Teacher",
+            "day":"Thursday",
+            "start":"09:00 AM",
+            "end":"12:00 PM",
+            "dept":"CS",
+            "year":"1st",
+            "sem":"1st"
+        },{
+            "subject":"PHYS 101",
+            "lecturer":"Mr. Manoj Pandey",
+            "day":"Thursday",
+            "start":"12:00 PM",
+            "end":"01:00 PM",
+            "dept":"CS",
+            "year":"1st",
+            "sem":"1st"
+        },{
+            "subject":"MATH 101",
+            "lecturer":"Ms. Saraswati Acharya",
+            "day":"Friday",
+            "start":"07:00 AM",
+            "end":"09:00 AM",
+            "dept":"CS",
+            "year":"1st",
+            "sem":"1st"
+        },{
+            "subject":"ENGG 111",
+            "lecturer":"Mr. Pratisthit lal Shrestha",
+            "day":"Friday",
+            "start":"09:00 AM",
+            "end":"12:00 PM",
+            "dept":"CS",
+            "year":"1st",
+            "sem":"1st"
+        },{
+            "subject":"CHEM 101",
+            "lecturer":"Mr. Chirag Poudel",
+            "day":"Friday",
+            "start":"01:00 PM",
+            "end":"02:00 PM",
+            "dept":"CS",
+            "year":"1st",
+            "sem":"1st"
+        },{
+            "subject":"COMP 103",
+            "lecturer":"Dr. Rabindra Bista",
+            "day":"Sunday",
+            "start":"07:00 AM",
+            "end":"09:00 AM",
+            "dept":"CE",
+            "year":"1st",
+            "sem":"1st"
+        },{
+            "subject":"PHYS 101",
+            "lecturer":"Mr. Manoj Pandey",
+            "day":"Sunday",
+            "start":"12:00 PM",
+            "end":"01:00 PM",
+            "dept":"CE",
+            "year":"1st",
+            "sem":"1st"
+        },{
+            "subject":"ENGT 101 CE1",
+            "lecturer":"Mr. Sangharsa Thapa",
+            "day":"Sunday",
+            "start":"01:00 PM",
+            "end":"03:00 PM",
+            "dept":"CE",
+            "year":"1st",
+            "sem":"1st"
+        },{
+            "subject":"CE2 Physics Practical",
+            "lecturer":"Lab Teacher",
+            "day":"Sunday",
+            "start":"01:00 PM",
+            "end":"04:00 PM",
+            "dept":"CE",
+            "year":"1st",
+            "sem":"1st"
+        },{
+            "subject":"ENGG 101",
+            "lecturer":"Mr. Prakash Bhattarai",
+            "day":"Monday",
+            "start":"09:00 AM",
+            "end":"12:00 PM",
+            "dept":"CE",
+            "year":"1st",
+            "sem":"1st"
+        },{
+            "subject":"CHEM 101",
+            "lecturer":"Mr. Chirag Poudel",
+            "day":"Monday",
+            "start":"01:00 PM",
+            "end":"03:00 PM",
+            "dept":"CE",
+            "year":"1st",
+            "sem":"1st"
+        },{
+            "subject":"CHEM 101",
+            "lecturer":"Mr. Chirag Poudel",
+            "day":"Tuesday",
+            "start":"09:00 AM",
+            "end":"11:00 AM",
+            "dept":"CE",
+            "year":"1st",
+            "sem":"1st"
+        },{
+            "subject":"PHYS 101",
+            "lecturer":"Mr. Manoj Pandey",
+            "day":"Tuesday",
+            "start":"11:00 AM",
+            "end":"12:00 PM",
+            "dept":"CE",
+            "year":"1st",
+            "sem":"1st"
+        },{
+            "subject":"MATH 101",
+            "lecturer":"Ms. Saraswati Acharya",
+            "day":"Tuesday",
+            "start":"01:00 PM",
+            "end":"03:00 PM",
+            "dept":"CE",
+            "year":"1st",
+            "sem":"1st"
+        },{
+            "subject":"EDRG 101",
+            "lecturer":"Mr. Sangharsa Thapa",
+            "day":"Wednesday",
+            "start":"10:00 AM",
+            "end":"11:00 AM",
+            "dept":"CE",
+            "year":"1st",
+            "sem":"1st"
+        },{
+            "subject":"PHYS 101",
+            "lecturer":"Mr. Manoj Pandey",
+            "day":"Wednesday",
+            "start":"12:00 PM",
+            "end":"01:00 PM",
+            "dept":"CE",
+            "year":"1st",
+            "sem":"1st"
+        },{
+            "subject":"ENGG 111",
+            "lecturer":"Mr. Pratisthit lal Shrestha",
+            "day":"Wednesday",
+            "start":"01:00 PM",
+            "end":"03:00 PM",
+            "dept":"CE",
+            "year":"1st",
+            "sem":"1st"
+        },{
+            "subject":"CE1 Physics Practical",
+            "lecturer":"Lab Teacher",
+            "day":"Thursday",
+            "start":"09:00 AM",
+            "end":"12:00 PM",
+            "dept":"CE",
+            "year":"1st",
+            "sem":"1st"
+        },{
+            "subject":"ENGT 101 CE2",
+            "lecturer":"Mr. Sangharsa Thapa",
+            "day":"Thursday",
+            "start":"10:00 AM",
+            "end":"12:00 PM",
+            "dept":"CE",
+            "year":"1st",
+            "sem":"1st"
+        },{
+            "subject":"EDRG 101",
+            "lecturer":"Mr. Sangharsa Thapa",
+            "day":"Thursday",
+            "start":"01:00 PM",
+            "end":"04:00 PM",
+            "dept":"CE",
+            "year":"1st",
+            "sem":"1st"
+        },{
+            "subject":"ENGG 111",
+            "lecturer":"Mr. Pratisthit lal Shrestha",
+            "day":"Friday",
+            "start":"09:00 AM",
+            "end":"11:00 AM",
+            "dept":"CE",
+            "year":"1st",
+            "sem":"1st"
+        },{
+            "subject":"MATH 101",
+            "lecturer":"Ms. Saraswati Acharya",
+            "day":"Friday",
+            "start":"12:00 PM",
+            "end":"02:00 PM",
+            "dept":"CE",
+            "year":"1st",
+            "sem":"1st"
+        },{
+            "subject":"COMP 103",
+            "lecturer":"Dr. Rabindra Bista",
+            "day":"Friday",
+            "start":"02:00 PM",
+            "end":"04:00 PM",
+            "dept":"CE",
+            "year":"1st",
+            "sem":"1st"
+        }
+    ]
+}

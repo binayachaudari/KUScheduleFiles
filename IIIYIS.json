@@ -1,0 +1,330 @@
+{
+    "version": 1,
+    "schedule": [
+        {
+            "subject":"COMP 307",
+            "lecturer":"Dr. Rajani Chulyadyo",
+            "day":"Sunday",
+            "start":"09:00 AM",
+            "end":"11:00 AM",
+            "dept":"CE",
+            "year":"3rd",
+            "sem":"1ST"
+        }, {
+            "subject":"COEG 304",
+            "lecturer":"Mr. Sameer Tamrakar",
+            "day":"Sunday",
+            "start":"11:00 AM",
+            "end":"1:00 PM",
+            "dept":"CE",
+            "year":"3rd",
+            "sem":"1st"
+        },{
+            "subject":"COMP 301",
+            "lecturer":"Mr. Nabin Ghimire",
+            "day":"Sunday",
+            "start":"02:00 PM",
+            "end":"04:00 PM",
+            "dept":"CE",
+            "year":"3rd",
+            "sem":"1st"
+        },{
+            "subject":"COMP 310",
+            "lecturer":"Respective Supervisor",
+            "day":"Monday",
+            "start":"09:00 AM",
+            "end":"11:00 AM",
+            "dept":"CE",
+            "year":"3rd",
+            "sem":"1st"
+        },{
+            "subject":"COMP 307",
+            "lecturer":"Dr. Rajani Chulyadyo",
+            "day":"Monday",
+            "start":"12:00 PM",
+            "end":"01:00 PM",
+            "dept":"CE",
+            "year":"3rd",
+            "sem":"1st"
+        },{
+            "subject":"COMP 315",
+            "lecturer":"Mr. Pankaj Raj Dawadi ",
+            "day":"Monday",
+            "start":"01:00 PM",
+            "end":"03:00 PM",
+            "dept":"CE",
+            "year":"3rd",
+            "sem":"1st"
+        },{
+            "subject":"COMP 301",
+            "lecturer":"Mr. Nabin Ghimire",
+            "day":"Monday",
+            "start":"03:00 PM",
+            "end":"04:00 PM",
+            "dept":"CE",
+            "year":"3rd",
+            "sem":"1st"
+        },{
+            "subject":"COMP 315",
+            "lecturer":"Mr. Pankaj Raj Dawadi ",
+            "day":"Tuesday",
+            "start":"09:00 AM",
+            "end":"11:00 AM",
+            "dept":"CE",
+            "year":"3rd",
+            "sem":"1st"
+        }, {
+            "subject":"COEG 304",
+            "lecturer":"Mr. Sameer Tamrakar",
+            "day":"Tuesday",
+            "start":"12:00 PM",
+            "end":"01:00 PM",
+            "dept":"CE",
+            "year":"3rd",
+            "sem":"1st"
+        }, {
+            "subject":"MGTS 301",
+            "lecturer":"Mr. Bibhu Ratna Tuladhar",
+            "day":"Tuesday",
+            "start":"02:00 PM",
+            "end":"04:00 PM",
+            "dept":"CE",
+            "year":"3rd",
+            "sem":"1st"
+        },{
+            "subject":"COMP 301 (Lab 1)",
+            "lecturer":"Mr. Nabin Ghimire",
+            "day":"Wednesday",
+            "start":"09:00 AM",
+            "end":"11:00 AM",
+            "dept":"CE",
+            "year":"3rd",
+            "sem":"1st"
+        }, {
+            "subject":"MGTS 301",
+            "lecturer":"Mr. Bibhu Ratna Tuladhar",
+            "day":"Wednesday",
+            "start":"12:00 PM",
+            "end":"02:00 PM",
+            "dept":"CE",
+            "year":"3rd",
+            "sem":"1st"
+        }, {
+            "subject":"COMP 303",
+            "lecturer":"Respective Supervisor",
+            "day":"Wednesday",
+            "start":"02:00 PM",
+            "end":"04:00 PM",
+            "dept":"CE",
+            "year":"3rd",
+            "sem":"1st"    
+        }, {
+            "subject":"COMP 303",
+            "lecturer":"Respective Supervisor",
+            "day":"Thursday",
+            "start":"09:00 AM",
+            "end":"12:00 AM",
+            "dept":"CE",
+            "year":"3rd",
+            "sem":"1st"    
+        }, {
+            "subject":"COMP 303",
+            "lecturer":"Respective Supervisor",
+            "day":"Thursday",
+            "start":"02:00 PM",
+            "end":"04:00 PM",
+            "dept":"CE",
+            "year":"3rd",
+            "sem":"1st"
+        }, {
+            "subject":"COEG 304 (Lab)",
+            "lecturer":"Mr. Sameer Tamrakar",
+            "day":"Friday",
+            "start":"09:00 AM",
+            "end":"11:00 AM",
+            "dept":"CE",
+            "year":"3rd",
+            "sem":"1st"
+        },{
+            "subject":"COMP 307",
+            "lecturer":"Dr. Rajani Chulyadyo",
+            "day":"Friday",
+            "start":"12:00 PM",
+            "end":"02:00 PM",
+            "dept":"CE",
+            "year":"3rd",
+            "sem":"1st"
+         }, {
+            "subject":"MGTS 301",
+            "lecturer":"Mr. Bibhu Ratna Tuladhar",
+            "day":"Friday",
+            "start":"02:00 PM",
+            "end":"04:00 PM",
+            "dept":"CE",
+            "year":"3rd",
+            "sem":"1st"
+        },{
+            "subject":"COMP 311",
+            "lecturer":"Respective Supervisor",
+            "day":"Sunday",
+            "start":"07:00 AM",
+            "end":"09:00 AM",
+            "dept":"CS",
+            "year":"3rd",
+            "sem":"1st"
+        },{
+            "subject":"COMP 315",
+            "lecturer":"Mr. Pankaj Dawadi",
+            "day":"Sunday",
+            "start":"09:00 AM",
+            "end":"11:00 AM",
+            "dept":"CS",
+            "year":"3rd",
+            "sem":"1st"
+        },{
+            "subject":"COMP 307",
+            "lecturer":"Dr. Rajani Chuladyo",
+            "day":"Sunday",
+            "start":"12:00 PM",
+            "end":"02:00 PM",
+            "dept":"CS",
+            "year":"3rd",
+            "sem":"1st"
+        },{
+            "subject":"COMP 317",
+            "lecturer":"Prof. Dr. Ram Prasad Ghimire",
+            "day":"Monday",
+            "start":"07:00 AM",
+            "end":"09:00 AM",
+            "dept":"CS",
+            "year":"3rd",
+            "sem":"1st"
+        },{
+            "subject":"COMP 316",
+            "lecturer":"Ms. Deni Shahi",
+            "day":"Monday",
+            "start":"09:00 AM",
+            "end":"11:00 AM",
+            "dept":"CS",
+            "year":"3rd",
+            "sem":"1st"
+        },{
+            "subject":"COMP 342(Lab)",
+            "lecturer":"Mr. Dhiraj Shrestha",
+            "day":"Monday",
+            "start":"12:00 PM",
+            "end":"02:00 PM",
+            "dept":"CS",
+            "year":"3rd",
+            "sem":"1st"
+        },{
+            "subject":"COMP 317",
+            "lecturer":"Prof. Dr. Ram Prasad Ghimire",
+            "day":"Tuesday",
+            "start":"07:00 AM",
+            "end":"09:00 AM",
+            "dept":"CS",
+            "year":"3rd",
+            "sem":"1st"
+        },{
+            "subject":"COMP 342",
+            "lecturer":"Mr. Dhiraj Shrestha",
+            "day":"Tuesday",
+            "start":"09:00 AM",
+            "end":"11:00 AM",
+            "dept":"CS",
+            "year":"3rd",
+            "sem":"1st"
+        },{
+            "subject":"COMP 317",
+            "lecturer":"Prof. Dr. Ram Prasad Ghimire",
+            "day":"Wednesday",
+            "start":"07:00 AM",
+            "end":"09:00 AM",
+            "dept":"CS",
+            "year":"3rd",
+            "sem":"1st"
+        },{
+            "subject":"MGTS 301",
+            "lecturer":"Mr. Bibhu Ratna Tuladhar",
+            "day":"Wednesday",
+            "start":"09:00 AM",
+            "end":"11:00 AM",
+            "dept":"CS",
+            "year":"3rd",
+            "sem":"1st"
+        },{
+            "subject":"COMP 342",
+            "lecturer":"Mr. Dhiraj Shrestha",
+            "day":"Wednesday",
+            "start":"12:00 PM",
+            "end":"01:00 PM",
+            "dept":"CS",
+            "year":"3rd",
+            "sem":"1st"
+        },{
+            "subject":"COMP 307(Lab)",
+            "lecturer":"Dr. Rajani Chuladyo",
+            "day":"Wednesday",
+            "start":"01:00 PM",
+            "end":"03:00 PM",
+            "dept":"CS",
+            "year":"3rd",
+            "sem":"1st"
+        },{
+            "subject":"COMP 316(Lab)",
+            "lecturer":"Ms. Deni Shahi",
+            "day":"Thursday",
+            "start":"09:00 AM",
+            "end":"11:00 AM",
+            "dept":"CS",
+            "year":"3rd",
+            "sem":"1st"
+        },{
+            "subject":"COMP 316",
+            "lecturer":"Ms. Deni Shahi",
+            "day":"Thursday",
+            "start":"12:00 PM",
+            "end":"01:00 PM",
+            "dept":"CS",
+            "year":"3rd",
+            "sem":"1st"
+        },{
+            "subject":"COMP 307",
+            "lecturer":"Dr. Rajani Chuladyo",
+            "day":"Thursday",
+            "start":"01:00 PM",
+            "end":"02:00 PM",
+            "dept":"CS",
+            "year":"3rd",
+            "sem":"1st"
+        },{
+            "subject":"COMP 311",
+            "lecturer":"Respective Supervisor",
+            "day":"Friday",
+            "start":"07:00 AM",
+            "end":"09:00 AM",
+            "dept":"CS",
+            "year":"3rd",
+            "sem":"1st"
+        },{
+            "subject":"MGTS 301",
+            "lecturer":"Mr. Bibhu Ratna Tuladhar",
+            "day":"Friday",
+            "start":"09:00 AM",
+            "end":"11:00 AM",
+            "dept":"CS",
+            "year":"3rd",
+            "sem":"1st"
+        },{
+            "subject":"COMP 315",
+            "lecturer":"Mr. Pankaj Dawadi",
+            "day":"Friday",
+            "start":"11:00 AM",
+            "end":"01:00 PM",
+            "dept":"CS",
+            "year":"3rd",
+            "sem":"1st"
+        }
+    ]
+}

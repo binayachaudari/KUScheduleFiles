@@ -1,0 +1,240 @@
+{
+    "version": 1,
+    "schedule": [
+        {
+            "subject":"MGTS 403",
+            "lecturer":"Mr. Subash Rajkarnikar",
+            "day":"Sunday",
+            "start":"09:00 AM",
+            "end":"12:00 PM",
+            "dept":"CE",
+            "year":"4th",
+            "sem":"1st"
+        },{
+            "subject":"COMP 407",
+            "lecturer":"Mr. Satyendra Nath Lohani",
+            "day":"Sunday",
+            "start":"02:00 PM",
+            "end":"04:00 PM",
+            "dept":"CE",
+            "year":"4th",
+            "sem":"1st"
+        },{
+            "subject":"COMP 401",
+            "lecturer":"Dr. Rabindra Bista",
+            "day":"Monday",
+            "start":"09:00 AM",
+            "end":"11:00 AM",
+            "dept":"CE",
+            "year":"4th",
+            "sem":"1st"
+        },{
+            "subject":"COMP 477",
+            "lecturer":"Mr. Sushil  Shrestha",
+            "day":"Monday",
+            "start":"12:00 PM",
+            "end":"03:00 PM",
+            "dept":"CE",
+            "year":"4th",
+            "sem":"1st"
+        },{
+            "subject":"COMP 421",
+            "lecturer":"Dr. Manish Pokhrel",
+            "day":"Tuesday",
+            "start":"09:00 AM",
+            "end":"11:00 AM",
+            "dept":"CE",
+            "year":"4th",
+            "sem":"1st"
+        },{
+            "subject":"COMP 484",
+            "lecturer":"Dr. Bal Krishna Bal",
+            "day":"Tuesday",
+            "start":"12:00 PM",
+            "end":"01:00 PM",
+            "dept":"CE",
+            "year":"4th",
+            "sem":"1st"
+        },{
+            "subject":"COMP 478",
+            "lecturer":"Mr. Sameer Shrestha",
+            "day":"Tuesday",
+            "start":"01:00 PM",
+            "end":"04:00 PM",
+            "dept":"CE",
+            "year":"4th",
+            "sem":"1st"
+        },{
+            "subject":"COMP 401",
+            "lecturer":"Dr. Rabindra Bista",
+            "day":"Wednesday",
+            "start":"09:00 AM",
+            "end":"11:00 AM",
+            "dept":"CE",
+            "year":"4th",
+            "sem":"1st"
+        },{
+            "subject":"COMP 409(Lab)",
+            "lecturer":"Mr. Nabin Ghimire",
+            "day":"Wednesday",
+            "start":"01:00 PM",
+            "end":"03:00 PM",
+            "dept":"CE",
+            "year":"4th",
+            "sem":"1st"
+        },{
+            "subject":"COMP 409",
+            "lecturer":"Mr. Nabin Ghimire",
+            "day":"Wednesday",
+            "start":"03:00 PM",
+            "end":"04:00 PM",
+            "dept":"CE",
+            "year":"4th",
+            "sem":"1st"
+        },{
+            "subject":"COMP 472",
+            "lecturer":"Mr. Santosh Khanal",
+            "day":"Thursday",
+            "start":"09:00 AM",
+            "end":"11:00 AM",
+            "dept":"CE",
+            "year":"4th",
+            "sem":"1st"
+        },{
+            "subject":"COMP 421",
+            "lecturer":"Dr. Manish Pokhrel",
+            "day":"Thursday",
+            "start":"01:00 PM",
+            "end":"02:00 PM",
+            "dept":"CE",
+            "year":"4th",
+            "sem":"1st"
+        },{
+            "subject":"COMP 484",
+            "lecturer":"Dr. Bal Krishna Bal",
+            "day":"Thursday",
+            "start":"02:00 PM",
+            "end":"04:00 PM",
+            "dept":"CE",
+            "year":"4th",
+            "sem":"1st"
+        },{
+            "subject":"COMP 484",
+            "lecturer":"Dr. Bal Krishna Bal",
+            "day":"Friday",
+            "start":"10:00 AM",
+            "end":"12:00 PM",
+            "dept":"CE",
+            "year":"4th",
+            "sem":"1st"
+        },{
+            "subject":"COMP 409",
+            "lecturer":"Mr. Nabin Ghimire",
+            "day":"Friday",
+            "start":"02:00 PM",
+            "end":"04:00 PM",
+            "dept":"CE",
+            "year":"4th",
+            "sem":"1st"
+        },{
+            "subject":"COMP 472",
+            "lecturer":"Mr. Santosh Khanal",
+            "day":"Sunday",
+            "start":"09:00 AM",
+            "end":"12:00 PM",
+            "dept":"CS",
+            "year":"4th",
+            "sem":"1st"
+        },{
+            "subject":"MGTS 403",
+            "lecturer":"Mr. Subash Rajkarnikar",
+            "day":"Sunday",
+            "start":"01:00 PM",
+            "end":"04:00 PM",
+            "dept":"CS",
+            "year":"4th",
+            "sem":"1st"
+        },{
+            "subject":"COMP 401",
+            "lecturer":"Dr. Rabindra Bista",
+            "day":"Monday",
+            "start":"07:00 AM",
+            "end":"09:00 AM",
+            "dept":"CS",
+            "year":"4th",
+            "sem":"1st"
+        },{
+            "subject":"COMP 482",
+            "lecturer":"Mr. Sushil Shrestha",
+            "day":"Monday",
+            "start":"12:00 PM",
+            "end":"02:00 PM",
+            "dept":"CS",
+            "year":"4th",
+            "sem":"1st"
+        },{
+            "subject":"COMP 421",
+            "lecturer":"Dr. Manish Pokhrel",
+            "day":"Tuesday",
+            "start":"09:00 AM",
+            "end":"10:00 AM",
+            "dept":"CS",
+            "year":"4th",
+            "sem":"1st"
+        },{
+            "subject":"COMP 484",
+            "lecturer":"Dr. Bal Krishna Bal",
+            "day":"Tuesday",
+            "start":"10:00 AM",
+            "end":"11:00 AM",
+            "dept":"CS",
+            "year":"4th",
+            "sem":"1st"
+        },{
+            "subject":"COMP 478",
+            "lecturer":"Mr. Sameer Shrestha",
+            "day":"Tuesday",
+            "start":"01:00 PM",
+            "end":"04:00 PM",
+            "dept":"CS",
+            "year":"4th",
+            "sem":"1st"
+        },{
+            "subject":"COMP 401",
+            "lecturer":"Dr. Rabindra Bista",
+            "day":"Wednesday",
+            "start":"07:00 AM",
+            "end":"09:00 AM",
+            "dept":"CS",
+            "year":"4th",
+            "sem":"1st"
+        },{
+            "subject":"COMP 484",
+            "lecturer":"Dr. Bal Krishna Bal",
+            "day":"Thursday",
+            "start":"10:00 AM",
+            "end":"12:00 AM",
+            "dept":"CS",
+            "year":"4th",
+            "sem":"1st"
+        },{
+            "subject":"COMP 421",
+            "lecturer":"Dr. Manish Pokhrel",
+            "day":"Thursday",
+            "start":"01:00 PM",
+            "end":"02:00 PM",
+            "dept":"CS",
+            "year":"4th",
+            "sem":"1st"
+        },{
+            "subject":"COMP 484",
+            "lecturer":"Dr. Bal Krishna Bal",
+            "day":"Thursday",
+            "start":"01:00 PM",
+            "end":"04:00 PM",
+            "dept":"CS",
+            "year":"4th",
+            "sem":"1st"
+        }
+    ]
+}
