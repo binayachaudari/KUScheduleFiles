@@ -1,5 +1,5 @@
 {
-    "version": 1,
+    "version": 5,
     "schedule": [
         {
             "subject":"COMP 307",
@@ -9,7 +9,7 @@
             "end":"11:00 AM",
             "dept":"CE",
             "year":"3rd",
-            "sem":"1ST"
+            "sem":"1st"
         }, {
             "subject":"COEG 304",
             "lecturer":"Mr. Sameer Tamrakar",
@@ -117,7 +117,7 @@
             "end":"04:00 PM",
             "dept":"CE",
             "year":"3rd",
-            "sem":"1st"    
+            "sem":"1st"
         }, {
             "subject":"COMP 303",
             "lecturer":"Respective Supervisor",
@@ -126,7 +126,7 @@
             "end":"12:00 AM",
             "dept":"CE",
             "year":"3rd",
-            "sem":"1st"    
+            "sem":"1st"
         }, {
             "subject":"COMP 303",
             "lecturer":"Respective Supervisor",

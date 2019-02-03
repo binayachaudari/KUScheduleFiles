@@ -1,5 +1,5 @@
 {
-    "version": 1,
+    "version": 5,
     "schedule": [
         {
             "subject":"COMP 486",
@@ -38,7 +38,7 @@
             "dept":"CS",
             "year":"4th",
             "sem":"2nd"
-      
+
        },{
             "subject":"MGTS 402",
             "lecturer":"Bhadra Man Tuladhar",

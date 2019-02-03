@@ -1,5 +1,5 @@
 {
-    "version": 1,
+    "version": 5,
     "schedule": [
         {
             "subject":"MATH 322",
@@ -38,7 +38,7 @@
             "dept":"CS",
             "year":"3rd",
             "sem":"2nd"
-      
+
        },{
             "subject":"COMP 341",
             "lecturer":"Sushil Shrestha",
@@ -118,7 +118,7 @@
             "start":"12:00 AM",
             "end":"01:00 PM",
             "dept":"CS",
-            "year":"3rdd",
+            "year":"3rd",
             "sem":"2nd"
         },{
             "subject":"COMP 313",
